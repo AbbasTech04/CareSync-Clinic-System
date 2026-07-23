@@ -25,7 +25,7 @@
 
 A comprehensive **50+ page technical manual** and developer guide is available in the repository. It covers full architecture diagrams, error troubleshooting, and database design.
 
-👉 **[Download Full Documentation PDF](./docs/CareSync-Documentation.pdf.pdf]**
+👉 **[Download Full Documentation (PDF)](./docs/CareSync-Documentation.pdf.pdf)**
 ---
 
 ## 🔒 Security Roadmap (Contribution Challenge)
