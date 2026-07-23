@@ -6,7 +6,7 @@
 
 ## ✨ Key Features
 
-* ** smart Booking Engine:** Automatically blocks weekend bookings (Saturdays & Sundays) and prevents double-booking time slots for doctors.
+*  smart Booking Engine: Automatically blocks weekend bookings (Saturdays & Sundays) and prevents double-booking time slots for doctors.
 * **📄 Digital Receipts:** Seamless client-side PDF ticket generation using `html2pdf.js`.
 * **📊 Receptionist Dashboard:** Interactive administration panel powered by `DataTables.js` for instant searching and sorting.
 * **⚙️ Clean Architecture:** Follows strictly the MVC (Model-View-Controller) design pattern.
